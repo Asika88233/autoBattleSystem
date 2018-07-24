@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1528815850 source:c:\users\asika\新建文件夹\autobattlesystem\main.cpp
+	<iostream>
+	<string>
+	"myRandom.h"
+	"master.h"
+	"warSystem.h"
+	"Log.h"
+	"stdlib.h"
+	"Warrior.h"
+	"Wizard.h"
+
+1529084886 source:c:\users\asika\新建文件夹\autobattlesystem\src\master.cpp
+	"master.h"
+
+1528812689 c:\users\asika\新建文件夹\autobattlesystem\include\master.h
+	<string>
+	"Wizard.h"
+
+1528200128 source:c:\users\asika\新建文件夹\autobattlesystem\src\myrandom.cpp
+	"MyRandom.h"
+
+1528199761 c:\users\asika\新建文件夹\autobattlesystem\include\myrandom.h
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	"Log.h"
+
+1528199609 c:\users\asika\新建文件夹\autobattlesystem\include\log.h
+	<iostream>
+	<iomanip>
+	<string>
+
+1528197229 source:c:\users\asika\新建文件夹\autobattlesystem\src\soldier.cpp
+	"soldier.h"
+
+1528812689 c:\users\asika\新建文件夹\autobattlesystem\include\soldier.h
+	"Regulations.h"
+	"MyRandom.h"
+	"Log.h"
+	<string>
+
+1528216036 c:\users\asika\新建文件夹\autobattlesystem\include\regulations.h
+
+1528269725 source:c:\users\asika\新建文件夹\autobattlesystem\src\log.cpp
+	"Log.h"
+	"Soldier.h"
+
+1528812623 source:c:\users\asika\新建文件夹\autobattlesystem\src\warrior.cpp
+	"Warrior.h"
+
+1528812689 c:\users\asika\新建文件夹\autobattlesystem\include\warrior.h
+	<string>
+	"soldier.h"
+
+1528814749 source:c:\users\asika\新建文件夹\autobattlesystem\src\wizard.cpp
+	"Wizard.h"
+
+1528812689 c:\users\asika\新建文件夹\autobattlesystem\include\wizard.h
+	<string>
+	"Warrior.h"
+
+1528814906 source:c:\users\asika\新建文件夹\autobattlesystem\src\warsystem.cpp
+	"myRandom.h"
+	"warSystem.h"
+
+1528805219 c:\users\asika\新建文件夹\autobattlesystem\include\warsystem.h
+	"master.h"
+	"regulations.h"
+	"MyRandom.h"
+	"Log.h"
+	<windows.h>
+	"Warrior.h"
+	"Wizard.h"
+	"soldier.h"
+
